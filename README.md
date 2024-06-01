@@ -1,9 +1,6 @@
-Sure! Here’s the updated version with relevant emojis to make it more visually appealing:
-
-```markdown
 ## Hi there 👋
 
-I'm **Yogesh More**, an aspiring data scientist with a strong foundation in Python, SQL, Tableau, and Excel. I have hands-on experience in exploratory data analysis, statistics and probability, and machine learning. My technical toolkit includes Docker, APIs (Streamlit, Flask), Git/GitHub, AWS, and Altair Rapidminer AI Studio.
+I'm **Yogesh More**, an aspiring data scientist with a strong foundation in **Python, SQL, Tableau, and Excel**. I have hands-on experience in exploratory data analysis, statistics and probability, and machine learning. My technical toolkit includes Docker, APIs (Streamlit, Flask), Git/GitHub, AWS, and Altair Rapidminer AI Studio.
 
 ### About Me
 
@@ -27,7 +24,6 @@ My ultimate goal is to become successful in data and AI, contributing innovative
 
 ### 📬 Contact
 
-Don't hesitate to contact me at [yogeshmmore.2412@gmail.com](mailto:yogeshmmore.2412@gmail.com). I'm always open to discussing data science, collaborating on projects, or exploring new opportunities.
+Please feel free to contact me at [yogeshmmore.2412@gmail.com](mailto:yogeshmmore.2412@gmail.com). I'm always open to discussing data science, collaborating on projects, or exploring new opportunities.
 ```
 
-This version includes emojis related to each section, making the profile more engaging and visually appealing.
