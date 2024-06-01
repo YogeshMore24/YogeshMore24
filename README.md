@@ -25,5 +25,10 @@ My ultimate goal is to become successful in data and AI, contributing innovative
 ### 📬 Contact
 
 Please feel free to contact me at [yogeshmmore.2412@gmail.com](mailto:yogeshmmore.2412@gmail.com). I'm always open to discussing data science, collaborating on projects, or exploring new opportunities.
-```
+
+### 🌐 Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/24yogesh)  
+[![Personal Website](https://img.shields.io/badge/-Website-black?style=flat&logo=Website&logoColor=white)](https://yogeshmore24.github.io)
+
 
